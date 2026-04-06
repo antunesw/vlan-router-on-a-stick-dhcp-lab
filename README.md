@@ -1,6 +1,3 @@
-# vlan-router-on-a-stick-dhcp-lab
-Cisco Packet Tracer lab - VLANs, Router-on-a-Stick, DHCP, Web &amp; FTP Servers
-
 # VLANs + Router-on-a-Stick with DHCP and Server Services
 
 Cisco Packet Tracer lab demonstrating **VLAN segmentation**, **Router-on-a-Stick inter-VLAN routing**, **DHCP server**, and hosting **Web + FTP services**.
