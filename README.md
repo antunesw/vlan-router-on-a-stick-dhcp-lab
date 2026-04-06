@@ -33,8 +33,6 @@ Cisco Packet Tracer lab demonstrating **VLAN segmentation**, **Router-on-a-Stick
 ![FTP Login Success](verification/ftp-login-success.png)
 
 ### Connectivity
-![Ping Tests](verification/ping-tests.png)
-
 ![Ping Tests](verification/ping-inter-vlan.png)
 
 ![Ping Tests](verification/pingtest2.png)
