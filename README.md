@@ -26,7 +26,7 @@ Cisco Packet Tracer lab demonstrating **VLAN segmentation**, **Router-on-a-Stick
 ## Verification
 
 **Configuration & Routing**
-![Show VLAN](verification/show-vlan-brief.png)
+![Show VLAN](verification/show-vlan-brief.png "width=600")
 ![Trunk Status](verification/show-interfaces-trunk.png)
 ![Routing Table](verification/show-ip-route.png)
 ![DHCP Bindings](verification/show-ip-dhcp-binding.png)
