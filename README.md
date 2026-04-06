@@ -25,21 +25,18 @@ Cisco Packet Tracer lab demonstrating **VLAN segmentation**, **Router-on-a-Stick
 
 ## Verification
 
-**Configuration & Routing**
-![Show VLAN](verification/show-vlan-brief.png "width=600")
+### Configuration & Routing
+![Show VLAN Brief](verification/show-vlan-brief.png)
 ![Trunk Status](verification/show-interfaces-trunk.png)
 ![Routing Table](verification/show-ip-route.png)
 ![DHCP Bindings](verification/show-ip-dhcp-binding.png)
 
-**Services Testing**
+### Services Testing
 ![Web Server Access](verification/web-server-access.png)
 ![FTP Login Success](verification/ftp-login-success.png)
 
-**Connectivity**
-![Ping Tests](verification/pingtest1.png)
-![Ping Tests](verification/pingtest2)
-![Ping Tests](verification/pingtest3)
-![Ping Tests](verification/pingtest4)
+### Connectivity
+![Inter-VLAN Ping Tests](verification/ping-inter-vlan.png)
 
 ## Skills Demonstrated
 - VLAN configuration and trunking
