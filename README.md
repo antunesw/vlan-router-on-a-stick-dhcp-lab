@@ -37,6 +37,8 @@ Cisco Packet Tracer lab demonstrating **VLAN segmentation**, **Router-on-a-Stick
 
 ### Connectivity
 ![Inter-VLAN Ping Tests](verification/ping-inter-vlan.png)
+![Inter-VLAN Ping Tests](verification/pingtest3.png)
+
 
 ## Skills Demonstrated
 - VLAN configuration and trunking
